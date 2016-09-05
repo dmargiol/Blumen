@@ -1,5 +1,12 @@
 import java.util.ArrayList;
 
+/**
+ * Dies ist ein Test-Kommentar zwecks Git.
+ * 
+ * https://github.com/dmargiol/Blumen
+ * 
+ *	@author Dominic Margiol
+ */
 public class FantasieBlumen{
 
 	public ArrayList<Blume> fantasieBlumen = new ArrayList<Blume>();
